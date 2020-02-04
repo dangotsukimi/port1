@@ -1,4 +1,4 @@
-(function( $ ) {
+$(function( $ ) {
 	function menu_open() {
 		if ( $( this ).hasClass( 'sp-close' ) ) {
 			$( this )
