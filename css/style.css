@@ -101,16 +101,16 @@ ul#menu{
 }
 .thumbnail{
     width: 350px;
-
     margin: 10px auto;
+    padding: 0 10px;
 }
 .thumbnail img{
     width: 100%;
 }
 .midashi{
-    width: 350px;
-
+    min-width: 350px;
     margin: 10px auto;
+    padding: 0 10px;
 }
 .honbun p{
     clear: both;
