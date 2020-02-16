@@ -74,7 +74,7 @@ ul#menu{
 @media screen and ( min-width:960px ){
     ul#menu{
         height: 3.6rem;
-        padding: 0 200px;
+        padding: 0 16%;
     }
     #menu li{
         margin: auto 0;
