@@ -133,12 +133,15 @@ time{
     width: 100%;
     box-sizing: border-box;
 }
+.topnews_title h6{
+    padding-bottom: 5px;
+}
 .news_grid a{
     text-decoration: none;
 }
 .news_title{
-    padding: 5px 0;
     color: black;
+    padding-bottom: 10px;
 }
 .content{
     width: 75%;
