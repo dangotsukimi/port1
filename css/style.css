@@ -146,33 +146,32 @@ time{
 .content{
     min-width: 90%;
     text-align: center;
-    margin: 0px auto;
+    margin: 10px auto;
 }
 .thumbnail{
-    width: 350px;
     margin: 0px;
     padding: 0px;
 }
 .thumbnail img{
-   width: 75%;
+   max-width: 75%;
    margin: 0px auto;
 }
 .midashi{
-    max-width: 350px;
     margin: 0px auto;
-    padding: 10px 0;
+    padding: 10px 5px;
 }
 .honbun{
-    margin: 0 auto;
+    width: 75%;
+    min-width: 350px;
+    margin: 10px auto;
     padding: 10px 0;
-    text-align: center;
+    text-align: left;
     background-color: #FFF;
 }
 .honbun p{
     clear: both;
     padding: 1rem;
     line-height: 2.2rem;
-    text-align: left;
 }
 @media screen and ( max-width:640px ){
     .flex{
